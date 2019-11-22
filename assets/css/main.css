@@ -2012,8 +2012,9 @@ input, select, textarea {
 	}
 
 		.wrapper.style1 {
-			background-image: none;
-			background-color: #fff;
+
+			background-image: url('images/images1.jpeg');
+			background-size: cover;
 		}
 
 		.wrapper.style2 {
